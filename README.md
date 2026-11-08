@@ -1,1 +1,1 @@
-# Para executar o código, ele foi feito no google colab, então ir processando os códigos na ordem em que aparecem, e foi utilizado o import em python dos datasets para que ambos os colaboradores e também externos possam rodar o código sem problemas
+# Como o codigo foi feito no Google Colab, basta executá-lo bloco a bloco de maneira sequencial. As bases de dados foram importadas utilizando a biblioteca ucimlrepo, utilizando o fetch_ucirepo e o id da base de dados do próprio uci.
