@@ -1,1 +1,1 @@
-# inteligencia-artificial
+# Para executar o código, ele foi feito no google colab, então ir processando os códigos na ordem em que aparecem, e foi utilizado o import em python dos datasets para que ambos os colaboradores e também externos possam rodar o código sem problemas
